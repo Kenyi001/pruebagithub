@@ -1,0 +1,32 @@
+## Ejemplo 1: Buen Commit
+
+Este es un ejemplo de un commit bien formateado.
+
+Estructura:
+- Línea 1: Tipo y descripción breve (50 caracteres máximo)
+- Línea 2: Blanca
+- Línea 3+: Descripción detallada (72 caracteres por línea)
+
+Ejemplo real:
+```
+feat: agregar validación de email al formulario
+
+Se implementó validación de email en el formulario de registro
+usando regex. La validación ocurre tanto en cliente como en servidor.
+
+- Validación cliente-side con regex
+- Validación servidor-side con API externa
+- Manejo de errores mejorado
+- Tests agregados
+
+Fixes #123
+```
+
+Tipos de commits estándar:
+- feat: Nueva funcionalidad
+- fix: Corrección de bug
+- docs: Cambios de documentación
+- style: Cambios de formato/estilo
+- refactor: Refactorización
+- test: Tests
+- chore: Cambios de configuración
