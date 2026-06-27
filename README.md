@@ -95,9 +95,21 @@ pruebagithub/
 
 ## 📖 Materiales
 
-- **Documentación**: Lea `/documentacion/basico.md` para empezar
-- **Ejemplos**: Revise `/ejemplos` para ver código en acción
-- **Scripts**: Ejecute scripts en `/ejemplos/scripts`
+### 🎓 Para Principiantes (Empieza aquí)
+- **[Tutorial Paso a Paso](documentacion/tutorial-principiantes.md)** - Tu primer PR en 30 minutos
+- **[Cheat Sheet](documentacion/cheat-sheet.md)** - Referencia rápida de comandos
+
+### 📚 Documentación Completa
+- **[Básico](documentacion/basico.md)** - Fundamentos de Git (Fases 1-2)
+- **[Intermedio](documentacion/intermedio.md)** - Ramas, PRs, Issues (Fases 3-5)
+- **[Avanzado](documentacion/avanzado.md)** - Técnicas profesionales (Fases 6-10)
+- **[Colaboración](documentacion/colaboracion.md)** - Cómo contribuir a proyectos
+- **[Templates](ejemplos/colaboracion/templates.md)** - Plantillas de PR e Issues
+
+### 💻 Ejemplos Prácticos
+- **[Ejemplos de Commits](ejemplos/commits/)** - Buenas prácticas
+- **[Flujo de Trabajo](ejemplos/ramas/)** - Cómo trabajar con ramas
+- **[Scripts Demo](ejemplos/scripts/)** - Scripts ejecutables
 
 ## 🤝 Contribuciones
 
